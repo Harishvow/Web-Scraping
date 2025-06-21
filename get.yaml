@@ -1,0 +1,3 @@
+price:
+  css: "span[data-test='text-cdp-price-display']"
+  type: Text
